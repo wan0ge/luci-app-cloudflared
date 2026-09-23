@@ -19,7 +19,7 @@
 **新手推荐**：运行一键安装脚本直接在路由器上进行：
 
 ```bash
-wget -O /tmp/setup.sh https://github.com/onlineY/luci-app-cloudflared/raw/main/tools/setup.sh
+wget -O /tmp/setup.sh https://github.com/onlineY/luci-app-cloudflared/raw/master/tools/setup.sh
 sh /tmp/setup.sh
 ```
 
